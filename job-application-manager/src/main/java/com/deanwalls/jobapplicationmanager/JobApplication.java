@@ -1,9 +1,9 @@
 package com.deanwalls.jobapplicationmanager;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import javax.persistence.GeneratedValue;
 import java.util.Date;
 
