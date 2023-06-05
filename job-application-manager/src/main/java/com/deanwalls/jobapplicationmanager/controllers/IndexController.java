@@ -10,10 +10,9 @@ public class IndexController {
 
     @GetMapping
     public String getHomepage(Model model){
+
         return "index";
 
     }
-
-
 
 }
